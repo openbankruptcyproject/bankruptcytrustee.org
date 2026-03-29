@@ -1,0 +1,16 @@
+{
+  "name": "What Does a Bankruptcy Trustee Do?",
+  "short_name": "bankruptcytrustee.org",
+  "description": "Plain-English guide to bankruptcy trustees -- their powers, duties, and how they affect your case under 11 U.S.C. Sections 323, 704, and 1302.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

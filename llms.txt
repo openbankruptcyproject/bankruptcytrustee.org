@@ -1,0 +1,21 @@
+# bankruptcytrustee.org
+
+> Plain-English guide to bankruptcy trustees -- their powers, duties, and how they affect your case under 11 U.S.C. Sections 323, 704, and 1302.
+
+bankruptcytrustee.org is a free, open-source educational resource about bankruptcy. Part of the Open Bankruptcy Project.
+
+## Pages
+
+- https://bankruptcytrustee.org/: What Does a Bankruptcy Trustee Do?
+- https://bankruptcytrustee.org/chapter-7-trustee.html: Chapter 7 Bankruptcy Trustee -- Powers and Duties
+- https://bankruptcytrustee.org/chapter-13-trustee.html: Chapter 13 Standing Trustee -- How They Manage Your Plan
+- https://bankruptcytrustee.org/trustee-investigation.html: Bankruptcy Trustee Investigation -- What They Look For
+- https://bankruptcytrustee.org/asset-liquidation.html: Bankruptcy Asset Liquidation -- When the Trustee Sells Your Property
+- https://bankruptcytrustee.org/trustee-objections.html: Trustee Objections in Bankruptcy -- Exemptions, Discharge, and How to Respond
+- https://bankruptcytrustee.org/meeting-of-creditors.html: The Trustee at Your 341 Meeting of Creditors
+- https://bankruptcytrustee.org/trustee-vs-judge.html: Bankruptcy Trustee vs Judge -- Who Does What?
+- https://bankruptcytrustee.org/faq.html: Bankruptcy Trustee FAQ -- Frequently Asked Questions
+
+## Contact
+
+This site is maintained by volunteers. No legal advice is provided.

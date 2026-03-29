@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Page Not Found | bankruptcytrustee.org</title>
+<meta name="theme-color" content="#0d1117">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="canonical" href="https://bankruptcytrustee.org/404.html">
+<style>
+  :root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; min-height: 100vh; display: flex; flex-direction: column; }
+  a { color: var(--accent); text-decoration: none; } a:hover { text-decoration: underline; }
+  nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
+  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; }
+  .nav-links a:hover { color: var(--accent); text-decoration: none; }
+  .hamburger { display: none; background: none; border: 1px solid var(--border); color: var(--text); font-size: 1.3rem; cursor: pointer; padding: 0.3rem 0.6rem; border-radius: 4px; line-height: 1; }
+  .container { max-width: 600px; margin: 0 auto; padding: 4rem 2rem; text-align: center; flex: 1; }
+  h1 { color: #f0f6fc; font-size: 2.5rem; margin-bottom: 1rem; }
+  .message { color: var(--text-muted); font-size: 1.1rem; margin-bottom: 2rem; }
+  .actions a.primary { display: inline-block; background: #238636; color: #fff; padding: 0.6rem 1.5rem; border-radius: 6px; font-weight: 600; font-size: 1rem; }
+  .actions a.primary:hover { background: #2ea043; text-decoration: none; }
+  .page-list { text-align: left; max-width: 400px; margin: 2rem auto 0; }
+  .page-list p { color: var(--text-muted); font-size: 0.9rem; margin-bottom: 0.5rem; font-weight: 600; }
+  .page-list ul { list-style: none; }
+  .page-list li { padding: 0.3rem 0; }
+  .page-list li a { font-size: 0.9rem; }
+  footer { background: var(--surface); border-top: 1px solid var(--border); padding: 1.5rem; text-align: center; font-size: 0.8rem; color: var(--text-muted); }
+  @media (max-width: 768px) {
+    .hamburger { display: inline-block; }
+    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0; }
+    .nav-links.open { display: flex; }
+    .nav-links a { display: block; padding: 0.6rem 0; font-size: 0.95rem; min-height: 44px; line-height: 2; border-bottom: 1px solid #21262d; }
+  }
+</style>
+</head>
+<body>
+<nav aria-label="Main navigation">
+  <a href="/" class="site-name">bankruptcytrustee.org</a>
+  <button class="hamburger" aria-expanded="false" aria-controls="nav-links" aria-label="Toggle navigation menu">&#9776;</button>
+  <div class="nav-links" id="nav-links">
+    <a href="/">Home</a>
+    <a href="chapter-7-trustee.html">Ch. 7 Trustee</a>
+    <a href="chapter-13-trustee.html">Ch. 13 Trustee</a>
+    <a href="trustee-investigation.html">Investigation</a>
+    <a href="asset-liquidation.html">Liquidation</a>
+    <a href="trustee-objections.html">Objections</a>
+    <a href="meeting-of-creditors.html">341 Meeting</a>
+    <a href="faq.html">FAQ</a>
+  </div>
+</nav>
+<div class="container">
+  <h1>Page Not Found</h1>
+  <p class="message">The page you are looking for does not exist or has been moved.</p>
+  <div class="actions">
+    <a href="/" class="primary">Back to bankruptcytrustee.org</a>
+  </div>
+  <div class="page-list">
+    <p>All pages on this site:</p>
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="chapter-7-trustee.html">Ch. 7 Trustee</a></li>
+      <li><a href="chapter-13-trustee.html">Ch. 13 Trustee</a></li>
+      <li><a href="trustee-investigation.html">Investigation</a></li>
+      <li><a href="asset-liquidation.html">Liquidation</a></li>
+      <li><a href="trustee-objections.html">Objections</a></li>
+      <li><a href="meeting-of-creditors.html">341 Meeting</a></li>
+      <li><a href="faq.html">FAQ</a></li>
+    </ul>
+  </div>
+</div>
+<footer role="contentinfo">
+  <p>Free bankruptcy education. Not legal advice.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit (determination pending).</p>
+</footer>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var btn = document.querySelector('.hamburger');
+  if (btn) btn.addEventListener('click', function() {
+    var links = document.getElementById('nav-links');
+    links.classList.toggle('open');
+    btn.setAttribute('aria-expanded', links.classList.contains('open'));
+  });
+});
+</script>
+<script src="/btn-engage.js"></script>
+</body>
+</html>
