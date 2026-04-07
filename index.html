@@ -451,7 +451,7 @@
 </div>
 <div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem">
 <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.</p>
-<a href="https://ko-fi.com/ilikemath9999" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Support on Ko-fi</a>
+<a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Sponsor on GitHub</a>
 </div>
 
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
@@ -460,7 +460,7 @@
   <div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
   <p style="margin-bottom:0.25rem"><span style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>
   <p style="color:#9eaab6;font-size:0.8rem;margin-bottom:0.75rem">1,500+ hours. No grants, no institutional backing. 0 supporters so far.</p>
-  <a href="https://ko-fi.com/ilikemath9999" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Fund this research</a>
+  <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Sponsor this research</a>
 </div>
 
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
@@ -516,7 +516,52 @@
 </div>
 <!-- /STATE GUIDES CROSS-LINK -->
 
+<!-- GEO CARD (timezone-based state suggestion) -->
+<div id="geo-card" style="display:none;max-width:700px;margin:1.5rem auto;padding:0 1rem">
+  <div style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-align:center">
+    <p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.5rem" id="geo-heading">Filing in Your State?</p>
+    <p style="color:#9eaab6;font-size:0.88rem;margin:0 0 0.75rem">Exemptions vary dramatically by state. Check what you can protect.</p>
+    <a id="geo-link" href="https://bankruptcyexemptionsbystate.com/states/?utm_source=bankruptcytrustee.org&utm_medium=geo-card&utm_campaign=btn-funnel" style="display:inline-block;background:#238636;color:#fff;padding:0.45rem 1.25rem;border-radius:6px;font-weight:600;font-size:0.88rem;text-decoration:none">Browse Your State's Exemptions &rarr;</a>
+  </div>
+</div>
+<script>
+(function(){
+  try {
+    var tz = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+    var map = {
+      'America/New_York': {s:'new-york',n:'New York'},
+      'America/Chicago': {s:'illinois',n:'Illinois'},
+      'America/Denver': {s:'colorado',n:'Colorado'},
+      'America/Los_Angeles': {s:'california',n:'California'},
+      'America/Phoenix': {s:'arizona',n:'Arizona'},
+      'America/Anchorage': {s:'alaska',n:'Alaska'},
+      'Pacific/Honolulu': {s:'hawaii',n:'Hawaii'},
+      'America/Indiana/Indianapolis': {s:'indiana',n:'Indiana'},
+      'America/Detroit': {s:'michigan',n:'Michigan'},
+      'America/Kentucky/Louisville': {s:'kentucky',n:'Kentucky'},
+      'America/Boise': {s:'idaho',n:'Idaho'}
+    };
+    var info = map[tz];
+    if (!info) {
+      if (tz.indexOf('America/New_York') !== -1 || tz.indexOf('Eastern') !== -1) info = map['America/New_York'];
+      else if (tz.indexOf('America/Chicago') !== -1 || tz.indexOf('Central') !== -1) info = map['America/Chicago'];
+      else if (tz.indexOf('America/Denver') !== -1 || tz.indexOf('Mountain') !== -1) info = map['America/Denver'];
+      else if (tz.indexOf('America/Los_Angeles') !== -1 || tz.indexOf('Pacific') !== -1) info = map['America/Los_Angeles'];
+    }
+    if (info) {
+      var src = 'bankruptcytrustee.org';
+      document.getElementById('geo-heading').textContent = 'Filing in ' + info.n + '?';
+      document.getElementById('geo-link').href = 'https://bankruptcyexemptionsbystate.com/states/' + info.s + '.html?utm_source=' + src + '&utm_medium=geo-card&utm_campaign=btn-funnel';
+      document.getElementById('geo-link').textContent = info.n + ' Bankruptcy Exemptions \u2192';
+    }
+    document.getElementById('geo-card').style.display = 'block';
+  } catch(e) {}
+})();
+</script>
+<!-- /GEO CARD -->
 <footer role="contentinfo">
+  <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+
   <p style="margin-bottom:0.5rem">Free bankruptcy education. Not legal advice.</p>
   <p style="margin-bottom:0.5rem">
     <a href="/">Home</a> &middot;
