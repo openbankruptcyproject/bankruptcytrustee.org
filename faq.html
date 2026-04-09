@@ -258,6 +258,8 @@
     table { font-size: 0.8rem; }
     th, td { padding: 0.5rem 0.6rem; }
   }
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
 
 <link rel="alternate" hreflang="en" href="https://bankruptcytrustee.org/faq.html">
@@ -285,6 +287,8 @@
   <p class="subtitle">Answers to the most common questions about bankruptcy trustees, their powers, and their limits.</p>
 </header>
 <main>
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://bankruptcytrustee.org">bankruptcytrustee.org</a><span class="separator">&rsaquo;</span><span>Bankruptcy Trustee FAQ -- Frequently Asked Questio</span></nav>
+
 <div class="content-section">
   <h2>Frequently asked questions</h2>
 
@@ -451,5 +455,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 <script src="/btn-engage.js" defer></script>
 <script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString()}).catch(function(){})</script>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
 </body>
 </html>
