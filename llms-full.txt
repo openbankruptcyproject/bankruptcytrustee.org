@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Bankruptcy Asset Liquidation -- When the Trustee Sells Your Property
+## Bankruptcy Asset Liquidation - When the Trustee Sells Your Property
 Source: https://bankruptcytrustee.org/asset-liquidation.html
 
 bankruptcytrustee.org
@@ -25,13 +25,15 @@ Asset Liquidation in Chapter 7
 
 When a Chapter 7 trustee finds non-exempt assets, they can sell them. Here is how the process works, what is protected, and what to expect.
 
+Home›bankruptcytrustee.org›Bankruptcy Asset Liquidation - When the Trustee S
+
 How asset liquidation works
 
 Chapter 7 is called "liquidation bankruptcy" for a reason. The trustee's job under 11 U.S.C. § 704(a)(1) is to "collect and reduce to money the property of the estate." In plain English: find non-exempt assets, sell them, and distribute the proceeds to creditors.
 
 But here is the reality: more than 70% of Chapter 7 cases are no-asset cases. The trustee reviews the filing and determines that everything the debtor owns is either exempt or not worth the cost of selling. The trustee files a no-asset report, and the case moves to discharge.
 
-Asset cases -- where the trustee actually sells property -- are the minority. But when they happen, the process is structured and governed by the Bankruptcy Code.
+Asset cases - where the trustee actually sells property - are the minority. But when they happen, the process is structured and governed by the Bankruptcy Code.
 
 What the trustee can and cannot sell
 
@@ -43,7 +45,7 @@ Exemptions protect most property
 
 Every state provides exemptions that protect certain property from liquidation. Common exemptions include:
 
-Homestead exemption: Protects equity in your primary residence (varies wildly by state -- $0 in some states to unlimited in Texas and Florida)
+Homestead exemption: Protects equity in your primary residence (varies wildly by state - $0 in some states to unlimited in Texas and Florida)
 
 Vehicle exemption: Typically $2,500 to $7,500 per vehicle
 
@@ -67,17 +69,17 @@ Parties in interest can object within the notice period (typically 21 days)
 
 Court approves the sale (or resolves objections)
 
-Trustee conducts the sale -- private sale, auction, or negotiated sale
+Trustee conducts the sale - private sale, auction, or negotiated sale
 
 Proceeds are distributed to creditors in priority order under 11 U.S.C. § 726
 
-Abandonment -- when the trustee gives up
+Abandonment - when the trustee gives up
 
 Under 11 U.S.C. § 554, the trustee can abandon property that is burdensome to the estate or of inconsequential value. This happens more often than you might think. If the cost of selling an asset (appraisal fees, storage, marketing, sale costs) exceeds the likely recovery, the trustee abandons it.
 
 Once abandoned, the property reverts to you. Abandonment is the practical reason why most Chapter 7 cases end up being no-asset cases even when the debtor owns things of some value.
 
-You can negotiate with the trustee. If the trustee wants to sell an asset you want to keep -- like a car with some non-exempt equity -- you may be able to pay the trustee the non-exempt amount to keep it. This is sometimes called "buying back" the asset from the estate.
+You can negotiate with the trustee. If the trustee wants to sell an asset you want to keep - like a car with some non-exempt equity - you may be able to pay the trustee the non-exempt amount to keep it. This is sometimes called "buying back" the asset from the estate.
 
 Related Guides
 
@@ -98,11 +100,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -135,10 +137,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
 
 11 U.S.C. Section 341
-Cornell LII -- meeting of creditors
+Cornell LII - meeting of creditors
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 U.S. Trustee Program
 DOJ bankruptcy oversight
@@ -197,7 +199,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 ---
 
-## Chapter 13 Standing Trustee -- How They Manage Your Plan
+## Chapter 13 Standing Trustee - How They Manage Your Plan
 Source: https://bankruptcytrustee.org/chapter-13-trustee.html
 
 bankruptcytrustee.org
@@ -216,9 +218,11 @@ The Chapter 13 Standing Trustee
 
 In Chapter 13, the trustee collects your monthly payments and distributes them to creditors for 3 to 5 years. Here is how the relationship works.
 
+Home›bankruptcytrustee.org›Chapter 13 Standing Trustee - How They Manage You
+
 How Chapter 13 trustees differ from Chapter 7
 
-Unlike Chapter 7 panel trustees who rotate among cases, Chapter 13 trustees are standing trustees -- permanently assigned to a district or division. They manage thousands of active cases simultaneously. Their duties are defined by 11 U.S.C. § 1302.
+Unlike Chapter 7 panel trustees who rotate among cases, Chapter 13 trustees are standing trustees - permanently assigned to a district or division. They manage thousands of active cases simultaneously. Their duties are defined by 11 U.S.C. § 1302.
 
 The Chapter 13 trustee does not liquidate your assets. Instead, they serve as the intermediary between you and your creditors during your 3 to 5 year repayment plan. You make a single monthly payment to the trustee, and the trustee distributes it to all creditors according to your confirmed plan.
 
@@ -230,7 +234,7 @@ What the Chapter 13 trustee does
 
 1. Reviews your proposed plan
 
-Before the confirmation hearing, the trustee reviews your Chapter 13 plan for feasibility. They examine your income, expenses, and whether the plan meets the requirements of 11 U.S.C. § 1325 -- including the best interests of creditors test and the projected disposable income test.
+Before the confirmation hearing, the trustee reviews your Chapter 13 plan for feasibility. They examine your income, expenses, and whether the plan meets the requirements of 11 U.S.C. § 1325 - including the best interests of creditors test and the projected disposable income test.
 
 2. Conducts the 341 meeting
 
@@ -238,7 +242,7 @@ Like the Chapter 7 trustee, the Chapter 13 trustee runs your 341 meeting of cred
 
 3. Collects monthly payments
 
-Once your plan is confirmed, you make monthly payments directly to the trustee -- usually by wage deduction or direct payment. The trustee receives your payment, deducts their fee (typically 7-10% of all funds received), and distributes the remainder to your creditors.
+Once your plan is confirmed, you make monthly payments directly to the trustee - usually by wage deduction or direct payment. The trustee receives your payment, deducts their fee (typically 7-10% of all funds received), and distributes the remainder to your creditors.
 
 4. Distributes funds to creditors
 
@@ -254,7 +258,7 @@ The trustee can object to plan confirmation if the plan does not meet legal requ
 
 Trustee fees in Chapter 13
 
-Standing trustees are compensated from a percentage of all payments they receive. The exact percentage is set by the U.S. Trustee and varies by district, but typically ranges from 7% to 10%. This fee is built into your plan -- you do not pay it separately.
+Standing trustees are compensated from a percentage of all payments they receive. The exact percentage is set by the U.S. Trustee and varies by district, but typically ranges from 7% to 10%. This fee is built into your plan - you do not pay it separately.
 
 For example, if your plan payment is $500 per month and the trustee fee is 8%, the trustee keeps $40 and distributes $460 to your creditors.
 
@@ -281,11 +285,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -318,10 +322,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
 
 11 U.S.C. Section 341
-Cornell LII -- meeting of creditors
+Cornell LII - meeting of creditors
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 U.S. Trustee Program
 DOJ bankruptcy oversight
@@ -380,7 +384,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 ---
 
-## Chapter 7 Bankruptcy Trustee -- Powers and Duties
+## Chapter 7 Bankruptcy Trustee - Powers and Duties
 Source: https://bankruptcytrustee.org/chapter-7-trustee.html
 
 bankruptcytrustee.org
@@ -395,17 +399,19 @@ Objections
 341 Meeting
 FAQ
 
-The Chapter 7 Trustee -- Powers and Duties
+The Chapter 7 Trustee - Powers and Duties
 
 The panel trustee assigned to your Chapter 7 case has one primary job: find non-exempt assets, sell them, and distribute the proceeds to creditors.
+
+Home›bankruptcytrustee.org›Chapter 7 Bankruptcy Trustee - Powers and Duties
 
 How Chapter 7 panel trustees are assigned
 
 When you file Chapter 7, the U.S. Trustee's office assigns a panel trustee from a rotating list of private attorneys who serve in that district. You do not get to choose your trustee. Under 11 U.S.C. § 701, the U.S. Trustee appoints an interim trustee promptly after the order for relief.
 
-Panel trustees are not government employees. They are private attorneys who contract with the U.S. Trustee program. They earn a flat fee of $60 per no-asset case, and a percentage of any assets they recover and distribute -- up to 25% of the first $5,000, 10% of the next $45,000, and 5% of the next $950,000 under 11 U.S.C. § 326.
+Panel trustees are not government employees. They are private attorneys who contract with the U.S. Trustee program. They earn a flat fee of $60 per no-asset case, and a percentage of any assets they recover and distribute - up to 25% of the first $5,000, 10% of the next $45,000, and 5% of the next $950,000 under 11 U.S.C. § 326.
 
-This compensation structure creates an incentive: trustees are motivated to find assets. But the overwhelming majority of Chapter 7 cases -- more than 70% nationwide -- are no-asset cases where the trustee collects nothing beyond the flat $60 fee.
+This compensation structure creates an incentive: trustees are motivated to find assets. But the overwhelming majority of Chapter 7 cases - more than 70% nationwide - are no-asset cases where the trustee collects nothing beyond the flat $60 fee.
 
 What the Chapter 7 trustee does
 
@@ -419,7 +425,7 @@ The trustee runs your 341 meeting. They put you under oath, verify your identity
 
 3. Investigates your financial affairs
 
-Under 11 U.S.C. § 704(a)(4), the trustee must investigate your financial affairs. This can include reviewing bank statements, real property records, vehicle titles, and retirement account balances. If something does not match your schedules, the trustee will ask questions -- and may request additional documentation.
+Under 11 U.S.C. § 704(a)(4), the trustee must investigate your financial affairs. This can include reviewing bank statements, real property records, vehicle titles, and retirement account balances. If something does not match your schedules, the trustee will ask questions - and may request additional documentation.
 
 4. Collects and liquidates non-exempt property
 
@@ -447,9 +453,9 @@ If the trustee discovers fraud, concealment, or other grounds listed in 11 U.S.C
 
 In no-asset cases, the trustee files a report stating there are no assets to distribute. In asset cases, the trustee files a detailed accounting of all property collected, all sales proceeds, and all distributions to creditors.
 
-No-asset cases -- the common outcome
+No-asset cases - the common outcome
 
-In more than 70% of Chapter 7 cases nationwide, the trustee reviews the case, conducts the 341 meeting, and determines there are no assets worth pursuing. The trustee files a no-asset report, and the case proceeds to discharge -- typically 60 days after the 341 meeting.
+In more than 70% of Chapter 7 cases nationwide, the trustee reviews the case, conducts the 341 meeting, and determines there are no assets worth pursuing. The trustee files a no-asset report, and the case proceeds to discharge - typically 60 days after the 341 meeting.
 
 A no-asset report does not mean you own nothing. It means everything you own is either exempt or not worth the cost of liquidation. Trustees consider the practical economics: if selling an asset would cost more in administrative expenses than it would yield for creditors, the trustee abandons it under 11 U.S.C. § 554.
 
@@ -476,11 +482,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -513,10 +519,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
 
 11 U.S.C. Section 341
-Cornell LII -- meeting of creditors
+Cornell LII - meeting of creditors
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 U.S. Trustee Program
 DOJ bankruptcy oversight
@@ -575,7 +581,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 ---
 
-## Bankruptcy Trustee FAQ -- Frequently Asked Questions
+## Bankruptcy Trustee FAQ - Frequently Asked Questions
 Source: https://bankruptcytrustee.org/faq.html
 
 bankruptcytrustee.org
@@ -593,6 +599,8 @@ FAQ
 Bankruptcy Trustee FAQ
 
 Answers to the most common questions about bankruptcy trustees, their powers, and their limits.
+
+Home›bankruptcytrustee.org›Bankruptcy Trustee FAQ - Frequently Asked Questio
 
 Frequently asked questions
 
@@ -630,7 +638,7 @@ If you failed to disclose assets, the trustee can seek denial of your discharge 
 
 Can the trustee object to my Chapter 13 plan?
 
-Yes. The Chapter 13 trustee can object to plan confirmation if the plan does not meet the requirements of 11 U.S.C. § 1325 -- including the best interests of creditors test, the projected disposable income test, and the good faith requirement.
+Yes. The Chapter 13 trustee can object to plan confirmation if the plan does not meet the requirements of 11 U.S.C. § 1325 - including the best interests of creditors test, the projected disposable income test, and the good faith requirement.
 
 How long after the 341 meeting does the trustee have to act?
 
@@ -655,11 +663,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -692,10 +700,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
 
 11 U.S.C. Section 341
-Cornell LII -- meeting of creditors
+Cornell LII - meeting of creditors
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 U.S. Trustee Program
 DOJ bankruptcy oversight
@@ -757,6 +765,8 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 ## What Does a Bankruptcy Trustee Do?
 Source: https://bankruptcytrustee.org/
 
+Skip to main content
+
 bankruptcytrustee.org
 ☰
 
@@ -782,15 +792,15 @@ Standing trustees (Ch. 13)
 70%+
 Ch. 7 cases are no-asset
 
-The bankruptcy trustee -- explained
+The bankruptcy trustee - explained
 
-Every bankruptcy case gets a trustee. The trustee is not your attorney and is not the judge. The trustee is an independent officer appointed under 11 U.S.C. § 323 to represent the bankruptcy estate -- meaning the trustee works for your creditors, not for you.
+Every bankruptcy case gets a trustee. The trustee is not your attorney and is not the judge. The trustee is an independent officer appointed under 11 U.S.C. § 323 to represent the bankruptcy estate - meaning the trustee works for your creditors, not for you.
 
 That sounds scary, but in practice, most consumer bankruptcy trustees are reasonable professionals who process hundreds of cases per year. They are looking for fraud, hidden assets, and preferential transfers. If your petition is honest and your exemptions are properly claimed, the trustee's review is routine.
 
 11 U.S.C. § 323(a): "The trustee in a case under this title is the representative of the estate."
 
-11 U.S.C. § 704: Defines the duties of a Chapter 7 trustee -- including collecting property of the estate, investigating the debtor's financial affairs, and objecting to discharge if warranted.
+11 U.S.C. § 704: Defines the duties of a Chapter 7 trustee - including collecting property of the estate, investigating the debtor's financial affairs, and objecting to discharge if warranted.
 
 There are two main types of trustees in consumer bankruptcy: Chapter 7 panel trustees and Chapter 13 standing trustees. Their roles, powers, and focus areas are very different.
 
@@ -798,7 +808,7 @@ Explore the guide
 
 Chapter 7 Trustee
 
-What a panel trustee does -- asset review, exemption challenges, liquidation, and no-asset reports.
+What a panel trustee does - asset review, exemption challenges, liquidation, and no-asset reports.
 
 Chapter 13 Trustee
 
@@ -862,7 +872,7 @@ Are there signs of fraud or abuse? Concealed assets, fake debts, or serial filin
 
 Most Chapter 7 cases are no-asset cases. That means the trustee reviews your filing, determines there is nothing to liquidate, and files a no-asset report. Your case proceeds to discharge without further trustee involvement.
 
-Do not lie to the trustee. Everything you say at the 341 meeting is under oath. Concealing assets or income is a federal crime under 18 U.S.C. § 152. Trustees are experienced -- they see hundreds of cases and know the red flags.
+Do not lie to the trustee. Everything you say at the 341 meeting is under oath. Concealing assets or income is a federal crime under 18 U.S.C. § 152. Trustees are experienced - they see hundreds of cases and know the red flags.
 
 462+ Court Documents Freed from PACER
 
@@ -889,11 +899,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -996,10 +1006,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
 
 11 U.S.C. Section 341
-Cornell LII -- meeting of creditors
+Cornell LII - meeting of creditors
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 U.S. Trustee Program
 DOJ bankruptcy oversight
@@ -1064,6 +1074,12 @@ FAQ
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
 
+Privacy Policy
+
+Rule 9037 PII Scanner - Free open-source tool to detect unredacted personal information in court filings
+
+Cited by the Federal Rules Committee (26-BK-3)
+
 ---
 
 ## The Trustee at Your 341 Meeting of Creditors
@@ -1084,6 +1100,8 @@ FAQ
 The Trustee at Your 341 Meeting
 
 The trustee runs your 341 meeting of creditors. Here is what they ask, what they are looking for, and how to prepare.
+
+Home›bankruptcytrustee.org›The Trustee at Your 341 Meeting of Creditors
 
 The trustee's role at the 341 meeting
 
@@ -1153,6 +1171,8 @@ Payday Loan Debt in Bankruptcy
 
 Related Topics
 
+Rule 9037 PII Scanner (Open Source)
+
 How to File Bankruptcy
 What Is Chapter 7?
 Chapter 13 Plans
@@ -1160,11 +1180,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -1197,10 +1217,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
 
 11 U.S.C. Section 341
-Cornell LII -- meeting of creditors
+Cornell LII - meeting of creditors
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 U.S. Trustee Program
 DOJ bankruptcy oversight
@@ -1259,7 +1279,203 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 ---
 
-## Bankruptcy Trustee Investigation -- What They Look For
+## What Your Subchapter V Trustee Should Be Doing (And What to Do If They Aren't) [2026]
+Source: https://bankruptcytrustee.org/trustee-duties.html
+
+Skip to main content
+
+bankruptcytrustee.org
+☰
+
+Home
+Sub V Trustee Duties
+Chapter 7 Trustee
+Chapter 13 Trustee
+341 Meeting
+FAQ
+
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+
+What Your Subchapter V Trustee Should Be Doing (And What to Do If They Aren't)
+
+Subchapter V trustees have specific statutory duties. If your trustee is not performing them, you have options - including complaints to the office that oversees all federal bankruptcy trustees.
+
+Home›Trustee Duties
+
+What Is Subchapter V?
+
+Subchapter V of Chapter 11, created by the Small Business Reorganization Act of 2019, provides a streamlined bankruptcy process for small businesses. It eliminates the creditors' committee, allows the debtor to retain equity while paying creditors, and appoints a trustee with a specific, limited role.
+
+Unlike Chapter 7 (where the trustee liquidates assets) or Chapter 13 (where the trustee distributes plan payments), the Sub V trustee does not take control of the business. The debtor remains in possession. The trustee's role is to facilitate - to help the reorganization succeed.
+
+Debt limit (2026): As of the current SBRA extension, the debt limit for Subchapter V eligibility is $7.5 million. This threshold has been adjusted several times since the statute was enacted.
+
+Section 1183: The Trustee's Statutory Duties
+
+11 U.S.C. Section 1183 spells out what the Sub V trustee is required to do. These are not suggestions - they are mandatory duties imposed by statute.
+
+DutyWhat It Means in Practice
+
+Be accountable for all property receivedTrack and account for any estate property that passes through the trustee
+
+Ensure debtor commences plan paymentsMonitor that the debtor actually starts making payments under the confirmed plan
+
+Appear at status conferenceAttend the initial status conference (within 60 days of filing) and any subsequent hearings
+
+Facilitate development of a consensual planActively work with the debtor and creditors to reach agreement on the reorganization plan
+
+Ensure debtor files required reportsMonitor that monthly operating reports (MORs) and other required filings are completed
+
+Ensure debtor pays post-petition taxesVerify that the debtor is current on all tax obligations arising after the filing
+
+If plan payments made through trustee, distribute themWhen the court orders trustee disbursement, make timely distributions to creditors
+
+11 U.S.C. Section 1183(b)(1): The trustee shall "facilitate the development of a consensual plan of reorganization."
+
+11 U.S.C. Section 1183(b)(4): The trustee shall "ensure that the debtor commences making timely payments required by a plan confirmed under this subchapter."
+
+When Trustees Fail to Perform
+
+The Sub V trustee role is relatively new (since 2020), and not all appointed trustees perform their duties consistently. Common failures include:
+
+Passivity. The trustee takes no active role in facilitating plan negotiations, essentially waiting for the debtor and creditors to work things out alone
+
+Failure to monitor. The trustee does not track whether the debtor is making plan payments, filing MORs, or paying post-petition taxes
+
+Non-appearance. The trustee does not attend hearings or the status conference
+
+Ignoring creditor defaults. When creditors file default notices or motions, the trustee takes no action to address them
+
+Delayed distributions. When the trustee is responsible for distributing plan payments, delays leave creditors unpaid and the debtor's reorganization at risk
+
+The cost of inaction: In one documented case from publicly available court records, the appointed trustee filed nothing on the docket for 21 months while creditor default notices accumulated. During this period, the debtor's reorganization was left without the oversight the statute requires.
+
+How to File an EOUST Complaint
+
+The Executive Office for United States Trustees (EOUST) is the division of the U.S. Department of Justice that oversees all bankruptcy trustees. They have the authority to investigate, counsel, and remove trustees who fail to perform their duties.
+
+Step-by-Step Process
+
+Identify your U.S. Trustee region. Find the regional office responsible for your district at justice.gov/ust
+
+Document the failures. Prepare a written summary of:
+
+Your case number and the trustee's name
+
+Specific duties the trustee has failed to perform (reference Section 1183)
+
+Dates and specifics - when were reports due? When did default notices arrive? What was the trustee's response (or lack thereof)?
+
+Any harm caused by the trustee's inaction
+
+Submit the complaint in writing. Send to the regional U.S. Trustee's office. Include supporting documents (docket entries, default notices, etc.)
+
+Follow up. If you do not receive a response within 30 days, contact the EOUST directly in Washington, D.C.
+
+Escalation path: If the regional U.S. Trustee does not act, you can escalate to the EOUST national office. The Director of the EOUST reports directly to the Associate Attorney General. Contact information is available at justice.gov/ust.
+
+Other Options When Your Trustee Fails
+
+Raise It in Court
+
+At any hearing in your case, you can bring the trustee's failures to the judge's attention. If you have an attorney, ask them to address the issue on the record. If you are pro se, prepare a concise statement of what the trustee is not doing and how it affects your case.
+
+File a Motion for Removal
+
+Under 11 U.S.C. Section 324, the court can remove a trustee "for cause." You or your attorney can file a motion requesting removal, citing specific failures to perform statutory duties.
+
+11 U.S.C. Section 324(a): "The court, after notice and a hearing, may remove a trustee... for cause."
+
+Request Appointment of a Different Trustee
+
+The U.S. Trustee selects Sub V trustees from a panel of qualified individuals. If your trustee is removed or resigns, the U.S. Trustee will appoint a replacement.
+
+What Good Sub V Trustee Performance Looks Like
+
+For comparison, here is what you should expect from a properly functioning Sub V trustee:
+
+Active engagement from day one - contacts the debtor within days of appointment to discuss the case
+
+Status conference preparation - works with debtor and creditors before the initial status conference to identify issues
+
+Plan facilitation - actively negotiates between debtor and creditors, proposes compromise terms, helps resolve objections
+
+Monitoring - tracks MOR filings, plan payments, tax obligations, and creditor compliance
+
+Communication - responds to debtor and creditor inquiries within a reasonable timeframe
+
+Court appearances - attends all hearings and participates meaningfully
+
+Timely distributions - when handling plan payments, distributes them to creditors without delay
+
+Sub V Trustee vs. Other Trustees
+
+FeatureChapter 7 TrusteeChapter 13 TrusteeSub V Trustee
+
+Takes control of business?Yes (liquidates)NoNo
+
+Distributes plan payments?N/AYes (always)Only if court orders
+
+Facilitates plan?NoNoYes (primary duty)
+
+Monitors compliance?No (case is brief)YesYes
+
+Appointed byU.S. TrusteeStanding trusteeU.S. Trustee (panel)
+
+Governing statuteSection 704Section 1302Section 1183
+
+Related Topics
+
+1328(f) Discharge Screener
+
+Chapter 13 Trustee Guide
+Attorney Malpractice Guide
+Pro Se Bankruptcy Guide
+Fee Disgorgement (Section 329)
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Relief from Automatic Stay -- relieffromstay.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Related Trustee Bankruptcy Resources
+
+Trustee Bankruptcy Guide
+
+Chapter 7 in Trustee
+
+Chapter 13 in Trustee
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project - free bankruptcy information for everyone.
+
+automaticstay.org
+meanstest.org
+bankruptcymalpractice.org
+341meeting.org
+523a.org
+prosedebtors.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Bankruptcy Trustee Investigation - What They Look For
 Source: https://bankruptcytrustee.org/trustee-investigation.html
 
 bankruptcytrustee.org
@@ -1274,9 +1490,11 @@ Objections
 341 Meeting
 FAQ
 
-Trustee Investigation -- What They Look For
+Trustee Investigation - What They Look For
 
 The trustee investigates every bankruptcy case. Most investigations are routine. Some are not. Here is what triggers deeper scrutiny and what to expect.
+
+Home›bankruptcytrustee.org›Bankruptcy Trustee Investigation - What They Look
 
 Every case gets investigated
 
@@ -1320,7 +1538,7 @@ Insurance policies and claims
 
 Retirement account statements
 
-Under Federal Rule of Bankruptcy Procedure 2004, the trustee can also conduct examinations of the debtor and third parties -- essentially depositions with subpoena power.
+Under Federal Rule of Bankruptcy Procedure 2004, the trustee can also conduct examinations of the debtor and third parties - essentially depositions with subpoena power.
 
 Failing to cooperate with the trustee's investigation can result in denial of discharge. Under 11 U.S.C. § 727(a)(6), refusal to obey a lawful order of the court or failure to respond to material questions is grounds for denying discharge entirely.
 
@@ -1357,11 +1575,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -1394,10 +1612,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
 
 11 U.S.C. Section 341
-Cornell LII -- meeting of creditors
+Cornell LII - meeting of creditors
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 U.S. Trustee Program
 DOJ bankruptcy oversight
@@ -1456,7 +1674,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 ---
 
-## Trustee Objections in Bankruptcy -- Exemptions, Discharge, and How to Respond
+## Trustee Objections in Bankruptcy - Exemptions, Discharge, and How to Respond
 Source: https://bankruptcytrustee.org/trustee-objections.html
 
 bankruptcytrustee.org
@@ -1471,9 +1689,11 @@ Objections
 341 Meeting
 FAQ
 
-Trustee Objections -- What to Know
+Trustee Objections - What to Know
 
 When a trustee objects to your exemptions or discharge, it does not mean your case is over. Here is what happens and how to respond.
+
+Home›bankruptcytrustee.org›Trustee Objections in Bankruptcy - Exemptions, Di
 
 Types of trustee objections
 
@@ -1493,11 +1713,11 @@ Over-valuing or under-valuing property to maximize exemptions
 
 Claiming wildcard exemptions on property that has a specific exemption category
 
-If the trustee objects and wins, the non-exempt portion of the property becomes available for liquidation. You do not lose the entire asset -- just the amount over the correct exemption.
+If the trustee objects and wins, the non-exempt portion of the property becomes available for liquidation. You do not lose the entire asset - just the amount over the correct exemption.
 
 Objections to discharge
 
-Objections to discharge under 11 U.S.C. § 727(a) are much more serious. If successful, you receive no discharge at all -- meaning all your debts survive the bankruptcy. Grounds include:
+Objections to discharge under 11 U.S.C. § 727(a) are much more serious. If successful, you receive no discharge at all - meaning all your debts survive the bankruptcy. Grounds include:
 
 Concealing, destroying, or falsifying financial records (§ 727(a)(3))
 
@@ -1525,7 +1745,7 @@ Attend the hearing. The court will schedule a hearing. Present your evidence and
 
 Discharge objection deadlines are strict. Under Federal Rule of Bankruptcy Procedure 4004(a), complaints objecting to discharge must be filed within 60 days after the first date set for the 341 meeting. This deadline is not flexible. If the trustee or a creditor misses it, the objection is barred.
 
-Most exemption objections are resolved without losing the asset. Often the trustee and debtor negotiate a compromise -- the debtor pays the difference, amends the exemption, or provides additional documentation. Full-blown litigation over exemptions is relatively uncommon in consumer cases.
+Most exemption objections are resolved without losing the asset. Often the trustee and debtor negotiate a compromise - the debtor pays the difference, amends the exemption, or provides additional documentation. Full-blown litigation over exemptions is relatively uncommon in consumer cases.
 
 Related Guides
 
@@ -1546,11 +1766,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -1583,10 +1803,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
 
 11 U.S.C. Section 341
-Cornell LII -- meeting of creditors
+Cornell LII - meeting of creditors
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 U.S. Trustee Program
 DOJ bankruptcy oversight
@@ -1645,7 +1865,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 ---
 
-## Bankruptcy Trustee vs Judge -- Who Does What?
+## Bankruptcy Trustee vs Judge - Who Does What?
 Source: https://bankruptcytrustee.org/trustee-vs-judge.html
 
 bankruptcytrustee.org
@@ -1660,17 +1880,19 @@ Objections
 341 Meeting
 FAQ
 
-Trustee vs Judge -- Who Does What?
+Trustee vs Judge - Who Does What?
 
 The trustee and the judge play very different roles in your bankruptcy case. Understanding who does what helps you know what to expect.
+
+Home›bankruptcytrustee.org›Bankruptcy Trustee vs Judge - Who Does What?
 
 Two different roles
 
 Many people confuse the trustee with the judge, or think the trustee is working for the court. Neither is true. Here is the difference:
 
-The trustee is an officer appointed to administer your case. In Chapter 7, the trustee is a private attorney from the panel. In Chapter 13, the trustee is a standing officer. The trustee works for the estate -- meaning the trustee represents the interests of your creditors.
+The trustee is an officer appointed to administer your case. In Chapter 7, the trustee is a private attorney from the panel. In Chapter 13, the trustee is a standing officer. The trustee works for the estate - meaning the trustee represents the interests of your creditors.
 
-The judge is a federal judicial officer appointed under 28 U.S.C. § 152 who resolves disputes, approves plans, grants discharges, and rules on motions. The judge is neutral -- they do not work for you or your creditors.
+The judge is a federal judicial officer appointed under 28 U.S.C. § 152 who resolves disputes, approves plans, grants discharges, and rules on motions. The judge is neutral - they do not work for you or your creditors.
 
 Side-by-side comparison
 
@@ -1684,9 +1906,9 @@ RepresentsThe bankruptcy estate (creditors)Neutral arbiter
 
 Runs 341 meetingYesNo (prohibited from attending)
 
-Reviews exemptionsYes -- can objectRules on objections
+Reviews exemptionsYes - can objectRules on objections
 
-Approves the planNo -- recommendsYes -- confirms or denies
+Approves the planNo - recommendsYes - confirms or denies
 
 Grants dischargeNoYes
 
@@ -1698,7 +1920,7 @@ When do you see the judge?
 
 In most consumer bankruptcy cases, you never see the judge. The trustee handles the 341 meeting, and if there are no objections or disputes, the judge enters the discharge order from chambers without a hearing.
 
-You only appear before the judge if there is a contested matter -- an objection to discharge, a disputed exemption, a motion to dismiss, a plan confirmation hearing, or adversary proceeding litigation.
+You only appear before the judge if there is a contested matter - an objection to discharge, a disputed exemption, a motion to dismiss, a plan confirmation hearing, or adversary proceeding litigation.
 
 Why the judge cannot attend the 341 meeting
 
@@ -1729,11 +1951,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -1766,10 +1988,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
 
 11 U.S.C. Section 341
-Cornell LII -- meeting of creditors
+Cornell LII - meeting of creditors
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 U.S. Trustee Program
 DOJ bankruptcy oversight
@@ -1825,3 +2047,75 @@ FAQ
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Privacy Policy - bankruptcytrustee.org
+Source: https://bankruptcytrustee.org/privacy.html
+
+bankruptcytrustee.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.

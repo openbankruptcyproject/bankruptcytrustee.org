@@ -5,15 +5,17 @@
 bankruptcytrustee.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Bankruptcy Asset Liquidation -- When the Trustee Sells Your Property: https://bankruptcytrustee.org/asset-liquidation.html
-- Chapter 13 Standing Trustee -- How They Manage Your Plan: https://bankruptcytrustee.org/chapter-13-trustee.html
-- Chapter 7 Bankruptcy Trustee -- Powers and Duties: https://bankruptcytrustee.org/chapter-7-trustee.html
-- Bankruptcy Trustee FAQ -- Frequently Asked Questions: https://bankruptcytrustee.org/faq.html
+- Bankruptcy Asset Liquidation - When the Trustee Sells Your Property: https://bankruptcytrustee.org/asset-liquidation.html
+- Chapter 13 Standing Trustee - How They Manage Your Plan: https://bankruptcytrustee.org/chapter-13-trustee.html
+- Chapter 7 Bankruptcy Trustee - Powers and Duties: https://bankruptcytrustee.org/chapter-7-trustee.html
+- Bankruptcy Trustee FAQ - Frequently Asked Questions: https://bankruptcytrustee.org/faq.html
 - What Does a Bankruptcy Trustee Do?: https://bankruptcytrustee.org/
 - The Trustee at Your 341 Meeting of Creditors: https://bankruptcytrustee.org/meeting-of-creditors.html
-- Bankruptcy Trustee Investigation -- What They Look For: https://bankruptcytrustee.org/trustee-investigation.html
-- Trustee Objections in Bankruptcy -- Exemptions, Discharge, and How to Respond: https://bankruptcytrustee.org/trustee-objections.html
-- Bankruptcy Trustee vs Judge -- Who Does What?: https://bankruptcytrustee.org/trustee-vs-judge.html
+- What Your Subchapter V Trustee Should Be Doing (And What to Do If They Aren't): https://bankruptcytrustee.org/trustee-duties.html
+- Bankruptcy Trustee Investigation - What They Look For: https://bankruptcytrustee.org/trustee-investigation.html
+- Trustee Objections in Bankruptcy - Exemptions, Discharge, and How to Respond: https://bankruptcytrustee.org/trustee-objections.html
+- Bankruptcy Trustee vs Judge - Who Does What?: https://bankruptcytrustee.org/trustee-vs-judge.html
+- Privacy Policy: https://bankruptcytrustee.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
