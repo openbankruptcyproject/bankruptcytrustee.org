@@ -1310,7 +1310,7 @@ Subchapter V of Chapter 11, created by the Small Business Reorganization Act of 
 
 Unlike Chapter 7 (where the trustee liquidates assets) or Chapter 13 (where the trustee distributes plan payments), the Sub V trustee does not take control of the business. The debtor remains in possession. The trustee's role is to facilitate - to help the reorganization succeed.
 
-Debt limit (2026): As of the current SBRA extension, the debt limit for Subchapter V eligibility is $7.5 million. This threshold has been adjusted several times since the statute was enacted.
+Debt limit (2026): The temporary $7.5 million limit expired June 21, 2024. The debt limit for Subchapter V eligibility is now $3,424,000 (as adjusted April 1, 2025). This threshold has been adjusted several times since the statute was enacted.
 
 Section 1183: The Trustee's Statutory Duties
 
