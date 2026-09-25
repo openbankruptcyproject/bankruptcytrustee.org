@@ -1,7 +1,7 @@
 # What Does a Bankruptcy Trustee Do?
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
-> Complete guide to bankruptcy trustees. What a Chapter 7 panel trustee and Chapter 13 standing trustee actually do, their powers, and how they...
+> Complete guide to bankruptcy trustees. What a Chapter 7 panel trustee and Chapter 13 standing trustee actually do, their powers, and how they affect your case.
 
 ## About
 bankruptcytrustee.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
@@ -18,6 +18,32 @@ bankruptcytrustee.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Trustee Objections in Bankruptcy - Exemptions, Discharge, and How to Respond: https://bankruptcytrustee.org/trustee-objections.html
 - Bankruptcy Trustee vs Judge - Who Does What?: https://bankruptcytrustee.org/trustee-vs-judge.html
 - Privacy Policy: https://bankruptcytrustee.org/privacy.html
+- About bankruptcytrustee.org: https://bankruptcytrustee.org/about.html
+- What Does the Trustee Ask at Your 341 Meeting?: https://bankruptcytrustee.org/trustee-questions.html
+- Binary-Forcing Notice with Conditional Variants | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/binary-forcing-notice.html
+- Reserved-Instrument Discipline (Variants A through E) | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/reserved-instrument-discipline.html
+- Zugzwang Net Architecture | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/zugzwang-net-architecture.html
+- Fraud-by-Accumulation Framework | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/fraud-by-accumulation-framework.html
+- Vague Adverse Characterization Pattern Catalog | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/vague-adverse-characterization-pattern.html
+- Documentary-Anchoring Discipline | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/documentary-anchoring-discipline.html
+- Channel-Independent Escalation Discipline | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/channel-independent-escalation.html
+- UPL Guardrail with Counsel-Gated Federal Channel Routing | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/upl-guardrail-counsel-gated-routing.html
+- Counsel-Readability Standard | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/counsel-readability-standard.html
+- Exemplar-Case-for-AI-in-Law Positioning | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/exemplar-case-for-ai-in-law.html
+- Five-Tier Graduated Punishment Ladder | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/five-tier-graduated-punishment-ladder.html
+- Soft Documentary Trap | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/soft-documentary-trap.html
+- Category-Substitution Refusal Pattern Detection | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/category-substitution-refusal-pattern.html
+- Disclosed-Facts + Opinion-from-the-Record Structure | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/disclosed-facts-opinion-from-record.html
+- CFO-Incentive Cross-Case Outreach Framework | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/cfo-incentive-cross-case-outreach.html
+- Adversary Public-Statement Rebuke Structure | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/adversary-public-statement-rebuke.html
+- Hold Posture as Information Warfare | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/hold-posture-as-information-warfare.html
+- Attribution Publication Sequence (Methodology then RECAP then Bar) | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/attribution-publication-sequence.html
+- Originating-Attorney Attribution Methodology | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/originating-attorney-attribution.html
+- Spoliation Is Historical Not Cured | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/spoliation-historical-not-cured.html
+- Forensic Complainant Filling Federal Vacuum | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/forensic-complainant-filling-vacuum.html
+- Surveillance-Legibility Preservation Discipline | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/surveillance-legibility-preservation.html
+- Claude-Parallel Labor Architecture | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/claude-parallel-labor-architecture.html
+- No-Facade Architecture Principle | Bankruptcy Trustee: https://bankruptcytrustee.org/methodology/no-facade-architecture.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

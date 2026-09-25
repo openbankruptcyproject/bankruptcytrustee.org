@@ -1,6 +1,6 @@
 # bankruptcytrustee.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on bankruptcytrustee.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -28,6 +28,8 @@ Asset Liquidation in Chapter 7
 When a Chapter 7 trustee finds non-exempt assets, they can sell them. Here is how the process works, what is protected, and what to expect.
 
 Home›bankruptcytrustee.org›Bankruptcy Asset Liquidation - When the Trustee S
+
+Filing fees are $338 for Chapter 7 and $313 for Chapter 13. Attorney fees typically range from $1,000 to $3,500 depending on the chapter and complexity. Fee waivers and installment payments are available for those who qualify.
 
 How asset liquidation works
 
@@ -110,7 +112,7 @@ Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -120,7 +122,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -185,19 +187,33 @@ Find out if you qualify for Chapter 7
 
 meanstest.org →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Ch. 7 Trustee ·
-Ch. 13 Trustee ·
-Investigation ·
-Liquidation ·
-Objections ·
-341 Meeting ·
-FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -221,6 +237,8 @@ The Chapter 13 Standing Trustee
 In Chapter 13, the trustee collects your monthly payments and distributes them to creditors for 3 to 5 years. Here is how the relationship works.
 
 Home›bankruptcytrustee.org›Chapter 13 Standing Trustee - How They Manage You
+
+Chapter 7 is a liquidation bankruptcy that eliminates most unsecured debts in about 3-4 months. A trustee reviews your assets and may sell non-exempt property to pay creditors. Most Chapter 7 cases are no-asset, meaning you keep everything you own.
 
 How Chapter 13 trustees differ from Chapter 7
 
@@ -295,7 +313,7 @@ Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -305,7 +323,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -370,19 +388,33 @@ Find out if you qualify for Chapter 7
 
 meanstest.org →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Ch. 7 Trustee ·
-Ch. 13 Trustee ·
-Investigation ·
-Liquidation ·
-Objections ·
-341 Meeting ·
-FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -406,6 +438,8 @@ The Chapter 7 Trustee - Powers and Duties
 The panel trustee assigned to your Chapter 7 case has one primary job: find non-exempt assets, sell them, and distribute the proceeds to creditors.
 
 Home›bankruptcytrustee.org›Chapter 7 Bankruptcy Trustee - Powers and Duties
+
+Filing fees are $338 for Chapter 7 and $313 for Chapter 13. Attorney fees typically range from $1,000 to $3,500 depending on the chapter and complexity. Fee waivers and installment payments are available for those who qualify.
 
 How Chapter 7 panel trustees are assigned
 
@@ -492,7 +526,7 @@ Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -502,7 +536,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -567,19 +601,33 @@ Find out if you qualify for Chapter 7
 
 meanstest.org →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Ch. 7 Trustee ·
-Ch. 13 Trustee ·
-Investigation ·
-Liquidation ·
-Objections ·
-341 Meeting ·
-FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -603,6 +651,8 @@ Bankruptcy Trustee FAQ
 Answers to the most common questions about bankruptcy trustees, their powers, and their limits.
 
 Home›bankruptcytrustee.org›Bankruptcy Trustee FAQ - Frequently Asked Questio
+
+Only if your car has equity above the state vehicle exemption amount. If you owe more than the car is worth, or your equity is within the exemption, the trustee cannot take it.
 
 Frequently asked questions
 
@@ -673,7 +723,7 @@ Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -683,7 +733,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -748,19 +798,33 @@ Find out if you qualify for Chapter 7
 
 meanstest.org →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Ch. 7 Trustee ·
-Ch. 13 Trustee ·
-Investigation ·
-Liquidation ·
-Objections ·
-341 Meeting ·
-FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -793,6 +857,8 @@ Standing trustees (Ch. 13)
 
 70%+
 Ch. 7 cases are no-asset
+
+A bankruptcy trustee is a court-appointed officer who administers your bankruptcy case. In Chapter 7, the trustee reviews your assets and sells non-exempt property to pay creditors. In Chapter 13, the trustee collects your monthly plan payments and distributes them to creditors.
 
 The bankruptcy trustee - explained
 
@@ -880,8 +946,6 @@ Do not lie to the trustee. Everything you say at the 341 meeting is under oath. 
 
 We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
 
-$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
-
 Related Guides
 
 What to Expect at a 341 Meeting
@@ -909,7 +973,7 @@ Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328 discharge requirements(f) bankruptcy discharge bar rules screening in federal bankruptcy courts
 
@@ -919,7 +983,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -1062,25 +1126,62 @@ California · Texas · Florida · New York · Illinois · Ohio
 
 Browse All 50 State Guides →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Ch. 7 Trustee ·
-Ch. 13 Trustee ·
-Investigation ·
-Liquidation ·
-Objections ·
-341 Meeting ·
-FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy Policy
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Rule 9037 PII Scanner - Free open-source tool to detect unredacted personal information in court filings
+Privacy |
+Terms
 
-Cited by the Federal Rules Committee (26-BK-3)
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Googlezvjzyjfznkwziasscft56Wwvzodyv174Hor3Hvo 08Y
+Trustee Duties
 
 ---
 
@@ -1104,6 +1205,8 @@ The Trustee at Your 341 Meeting
 The trustee runs your 341 meeting of creditors. Here is what they ask, what they are looking for, and how to prepare.
 
 Home›bankruptcytrustee.org›The Trustee at Your 341 Meeting of Creditors
+
+The trustee verifies your identity, places you under oath, and asks questions about your income, assets, debts, and bankruptcy schedules. Creditors may attend and ask questions, though most do not. The meeting typically lasts 5-15 minutes.
 
 The trustee's role at the 341 meeting
 
@@ -1173,7 +1276,7 @@ Payday Loan Debt in Bankruptcy
 
 Related Topics
 
-Rule 9037 PII Scanner (Open Source)
+Rule 9037 Compliance Guide
 
 How to File Bankruptcy
 What Is Chapter 7?
@@ -1190,7 +1293,7 @@ Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -1200,7 +1303,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -1265,19 +1368,33 @@ Find out if you qualify for Chapter 7
 
 meanstest.org →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Ch. 7 Trustee ·
-Ch. 13 Trustee ·
-Investigation ·
-Liquidation ·
-Objections ·
-341 Meeting ·
-FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -1296,13 +1413,15 @@ Chapter 13 Trustee
 341 Meeting
 FAQ
 
-Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 210+ free domains, 49,000+ pages, $0 hosting
 
 What Your Subchapter V Trustee Should Be Doing (And What to Do If They Aren't)
 
 Subchapter V trustees have specific statutory duties. If your trustee is not performing them, you have options - including complaints to the office that oversees all federal bankruptcy trustees.
 
 Home›Trustee Duties
+
+A Subchapter V trustee is appointed by the U.S. Trustee in small business bankruptcy cases filed under Subchapter V of Chapter 11. Unlike Chapter 7 or Chapter 13 trustees, the Sub V trustee does not take control of the business. Their role is to facilitate the reorganization - helping the debtor negotiate with creditors, monitoring plan compliance, and distributing payments under a confirmed plan.
 
 What Is Subchapter V?
 
@@ -1453,23 +1572,31 @@ Chapter 7 in Trustee
 
 Chapter 13 in Trustee
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-Part of the Open Bankruptcy Project - free bankruptcy information for everyone.
+Real information, no strings.
 
-automaticstay.org
-meanstest.org
-bankruptcymalpractice.org
-341meeting.org
-523a.org
-prosedebtors.org
-howtofilebankruptcy.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -1497,6 +1624,8 @@ Trustee Investigation - What They Look For
 The trustee investigates every bankruptcy case. Most investigations are routine. Some are not. Here is what triggers deeper scrutiny and what to expect.
 
 Home›bankruptcytrustee.org›Bankruptcy Trustee Investigation - What They Look
+
+A bankruptcy mill is a high-volume law firm that processes large numbers of bankruptcy cases with minimal attorney involvement. Cases are often handled by paralegals or software, leading to errors, missed deadlines, and poor outcomes for clients.
 
 Every case gets investigated
 
@@ -1585,7 +1714,7 @@ Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -1595,7 +1724,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -1660,19 +1789,33 @@ Find out if you qualify for Chapter 7
 
 meanstest.org →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Ch. 7 Trustee ·
-Ch. 13 Trustee ·
-Investigation ·
-Liquidation ·
-Objections ·
-341 Meeting ·
-FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -1696,6 +1839,8 @@ Trustee Objections - What to Know
 When a trustee objects to your exemptions or discharge, it does not mean your case is over. Here is what happens and how to respond.
 
 Home›bankruptcytrustee.org›Trustee Objections in Bankruptcy - Exemptions, Di
+
+While bankruptcy is federal law, each state sets its own exemptions that determine what property you can keep. Some states also allow you to choose between state and federal exemptions. Your state's median income determines Chapter 7 eligibility through the means test.
 
 Types of trustee objections
 
@@ -1776,7 +1921,7 @@ Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -1786,7 +1931,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -1851,19 +1996,33 @@ Find out if you qualify for Chapter 7
 
 meanstest.org →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Ch. 7 Trustee ·
-Ch. 13 Trustee ·
-Investigation ·
-Liquidation ·
-Objections ·
-341 Meeting ·
-FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -1887,6 +2046,8 @@ Trustee vs Judge - Who Does What?
 The trustee and the judge play very different roles in your bankruptcy case. Understanding who does what helps you know what to expect.
 
 Home›bankruptcytrustee.org›Bankruptcy Trustee vs Judge - Who Does What?
+
+While bankruptcy is federal law, each state sets its own exemptions that determine what property you can keep. Some states also allow you to choose between state and federal exemptions. Your state's median income determines Chapter 7 eligibility through the means test.
 
 Two different roles
 
@@ -1961,7 +2122,7 @@ Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -1971,7 +2132,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -2036,19 +2197,33 @@ Find out if you qualify for Chapter 7
 
 meanstest.org →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Ch. 7 Trustee ·
-Ch. 13 Trustee ·
-Investigation ·
-Liquidation ·
-Objections ·
-341 Meeting ·
-FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -2108,7 +2283,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -2118,6 +2293,670 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About bankruptcytrustee.org
+Source: https://bankruptcytrustee.org/about.html
+
+bankruptcytrustee.org
+
+Home
+About
+Privacy
+
+About bankruptcytrustee.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+bankruptcytrustee.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+---
+
+## What Does the Trustee Ask at Your 341 Meeting?
+Source: https://bankruptcytrustee.org/trustee-questions.html
+
+bankruptcytrustee.org
+☰
+
+Home
+Ch. 7 Trustee
+Ch. 13 Trustee
+Investigation
+Questions
+Objections
+341 Meeting
+FAQ
+
+What Does the Trustee Ask at Your 341 Meeting?
+
+Ten required questions. A handful of red-flag follow-ups. And a wide spread between districts. Here is exactly what to expect.
+
+bankruptcytrustee.org›What Does the Trustee Ask
+
+Quick answer
+
+Every 341 meeting starts with the same 10 identity-and-accuracy questions - required by the U.S. Trustee Program for Chapter 7 cases. After that, the trustee asks questions driven by what appears on your schedules. If your paperwork is clean, consistent, and matches the documents you produced, most 341s last 5 to 10 minutes. If something does not reconcile, expect follow-ups - and possibly a continued meeting.
+
+The 10 required questions (Chapter 7)
+
+The U.S. Trustee Program publishes a required list of questions panel trustees must ask every debtor. These are not optional. Expect some form of each of the following:
+
+Did you sign the petition, schedules, and statement of financial affairs? Trustee is confirming the documents are yours.
+
+Did you read them before signing? Answer yes. "No" signals your attorney rushed you - and the trustee will ask more.
+
+Is everything in them true and correct to the best of your knowledge? If anything needs correcting, this is when to say so. Amendments filed voluntarily are routine. Amendments forced after a trustee catches an error are not.
+
+Are there any errors or omissions you are aware of now? Second chance on the same point. Use it if anything has changed since filing (new debt, new asset, new lawsuit).
+
+Do you own or have an interest in any real estate? Includes partial interests, inherited interests, beneficial interests, and property held in trust. "My name is on my mom's house" is a yes.
+
+Have you listed all of your assets? Cars, jewelry, tools, electronics, tax refunds, lawsuits, intellectual property. Yes-or-no.
+
+Have you listed all of your creditors? Includes people, not just companies. If you owe your mother, she is a creditor.
+
+Have you filed all required tax returns? The trustee will ask for the last two to three years of returns.
+
+Have you filed bankruptcy before? Prior cases are public record - the trustee already knows. Answer honestly.
+
+Have you transferred any property in the last year (or up to four years, depending on the district)? Sales, gifts, loan payoffs to family, moves to a trust. The lookback is two years under 11 U.S.C. § 548, longer under state fraudulent-transfer law.
+
+Under the U.S. Trustee Program's Handbook for Chapter 7 Trustees, panel trustees are required to confirm identity with a government photo ID and proof of Social Security number at the start of the meeting. Bring both.
+
+Red-flag follow-ups - what triggers them
+
+Beyond the standard questions, trustees ask targeted follow-ups when something on your schedules or bank statements does not sit right. The triggers are specific:
+
+Gambling questions
+
+Trustees ask about gambling when bank statements show cash withdrawals at casino ATMs, round-number deposits from online platforms (DraftKings, FanDuel, PokerStars), or the statement of financial affairs lists gambling losses. If none of that appears, you will not be asked.
+
+What they ask: "Have you had any gambling losses or winnings in the last two years?" Then: "How much?" Then: "Where did the money come from?" The answer does not disqualify you from Chapter 7 - but undisclosed gambling losses that show up in bank records are treated as a credibility issue.
+
+Large deposits
+
+Any deposit over $1,000 that does not match a pay stub gets asked about. Tax refunds, insurance settlements, loan proceeds, gifts, side-gig income. The trustee wants to know where it came from and where it went.
+
+Missing or undervalued assets
+
+If your schedules show a 2018 pickup truck at $3,000 but Kelley Blue Book retail is $15,000, the trustee will ask you to justify the valuation. Same with jewelry, collectibles, firearms, and business equipment. Round numbers and low-ball valuations attract questions.
+
+Transfers to family or insiders
+
+If you paid back a family loan within the year before filing, expect questions. Under 11 U.S.C. § 547(b), the trustee can sue the family member to claw back the payment (the "insider preference" rule - one-year lookback for insiders, 90 days for everyone else). The trustee needs to know the amount, the date, and the relationship.
+
+Business income and expenses
+
+Self-employed debtors and business owners get longer meetings. Expect questions about gross receipts, business expenses, equipment, inventory, accounts receivable, and whether the business is still operating.
+
+Prior bankruptcy cases
+
+If you have filed before, the trustee will ask why the prior case failed or closed, whether you received a discharge, and how much time has passed. See 1328(f) filing bar for the time limits between discharges.
+
+District-by-district variation
+
+The most common Reddit question about trustees is some version of "is it normal that my trustee is tough / easy / weird?" The honest answer: yes. Trustees vary more than most debtors expect.
+
+Panel Chapter 7 trustees are private attorneys appointed by the U.S. Trustee Program to rotating rosters. They are not salaried - they receive a flat $60 per case plus a percentage of any assets they recover for creditors. That compensation structure creates different styles:
+
+High-volume panels (some Florida, Georgia, California districts) run 20-30 341 meetings in a single session. Meetings are short. Questions track the required list. Assets are rarely pursued unless they exceed exemptions by a wide margin.
+
+Investigatory panels (parts of the Northeast, Michigan, rural districts) hold fewer cases and dig deeper. Bank statements are cross-checked. Vehicle valuations are challenged. Rule 2004 exams are more common.
+
+Standing Chapter 13 trustees are permanent appointees in each district - one or two per division. Their style follows a year-in, year-out pattern that local attorneys know. If you are in Chapter 13, your attorney can predict their behavior.
+
+You do not choose your trustee. They are assigned randomly from the panel roster when your case opens. If you want to know what to expect, local bankruptcy attorneys and the U.S. Trustee's regional office are the best sources.
+
+A "tough" trustee is not the same as a hostile trustee. Panel trustees are required to investigate. When they ask detailed questions it is almost always because something on paper does not match something else on paper - not because they dislike you. Answer the questions directly, produce the documents, and most investigations close quietly.
+
+How to prepare
+
+Re-read your petition. All of it - schedules A through J, statement of financial affairs, statement of intention. The trustee will ask about details you probably forgot two weeks after signing.
+
+Bring the required documents. Government photo ID, Social Security card (or other acceptable proof), and any documents your trustee requested in the appointment notice. Some trustees want bank statements, pay stubs, and tax returns even when not specifically requested - bring the last 60 days of bank statements and the last two tax returns as a default.
+
+Reconcile your deposits. Go through your last 6-12 months of bank statements and make sure every deposit over $500 has an explanation you can give in one sentence.
+
+Practice saying "I don't know" and "I don't remember." Those are acceptable answers when true. What is not acceptable is guessing, speculating, or making up a number.
+
+Arrive early. Most 341 meetings are now by Zoom, but the schedule matters - the trustee runs debtors in order and if you are late you may be rescheduled or your case dismissed for failure to appear.
+
+Do not volunteer information the trustee did not ask for. Answer the question, then stop. Volunteering surfaces context the trustee would not otherwise have pursued. "Yes we paid my sister back $4,000 last summer - is that a problem?" is how short meetings become long ones.
+
+What happens after the 341
+
+The trustee closes the meeting with one of three statements:
+
+"Meeting concluded." Most common outcome. The clock on the 60-day creditor-objection window starts. Discharge follows in 60-90 days if no one objects.
+
+"Meeting continued." Trustee wants additional documents or has more questions. A new date is set (usually 2-4 weeks out). This is not a bad outcome - most continued meetings close cleanly after the requested documents are produced.
+
+"I'm going to issue a Rule 2004 exam request." Rare. Signals a formal deposition with subpoena power is coming. Get a lawyer if you do not already have one.
+
+The trustee investigation continues behind the scenes for at least 60 days - sometimes longer for asset cases. "No-asset report" filings mean the trustee found nothing to liquidate. Asset cases generate a trustee report to the court and a distribution to creditors, which can take years.
+
+Frequently asked
+
+Will the judge be at my 341 meeting?
+
+No. Judges are prohibited by 11 U.S.C. § 341(c) from attending 341 meetings. This is a trustee proceeding, not a court hearing. No ruling will be issued.
+
+Can creditors question me?
+
+Yes, legally. In practice, creditors almost never show up. When they do, it is usually a car lender confirming a reaffirmation, a former business partner, or an ex-spouse. The trustee controls the meeting and can limit abusive or irrelevant questioning.
+
+What if I miss my 341 meeting?
+
+First miss: the trustee continues the meeting and you get a new date. Second miss without cause: your case is dismissed for failure to appear. Dismissal for failure to appear can complicate re-filing within the next year under 11 U.S.C. § 109(g).
+
+Can I bring notes?
+
+Yes. Bring your petition, bank statements, tax returns, and any notes you need. Reading answers from notes is not preferred - your testimony is under oath - but referring to specific numbers (account balances, property values) is routine and expected.
+
+What if I don't understand a question?
+
+Ask the trustee to repeat or rephrase it. Never guess at the answer. "I don't understand the question" is a complete answer on its own.
+
+The 341 meeting is not a test you can fail by answering wrong. It is an identity-and-accuracy check plus a chance for the trustee to resolve questions raised by your paperwork. Prepare honestly, answer directly, produce documents when asked - and the meeting ends in minutes.
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Should I File Bankruptcy?
+
+Trustee Investigation
+
+Trustee Objections
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+Ch. 7 Trustee ·
+Ch. 13 Trustee ·
+Investigation ·
+Questions ·
+Objections ·
+341 Meeting ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## Binary-Forcing Notice with Conditional Variants | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/binary-forcing-notice.html
+
+Binary-Forcing Notice with Conditional Variants
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/binary-forcing-notice/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+A binary-forcing notice is a procedural-status letter engineered to convert an adversary's vague position (typically a self-serving characterization such as "we are fully withdrawn" or "your concerns are without merit") into a small, finite set of pre-engineered outcomes. Each branch of the resulting decision tree, including the silence branch, is constructed in advance to produce a documented exhibit useful in a subsequent disciplinary or merits proceeding. Where a conventional demand letter argues, a binary-forcing notice forecloses; it removes the adversary's ambiguity refuge by making every possible response (including no response) load-bearing on the record.
+
+The technique sits at the intersection of procedural discipline and rhetorical engineering. Its center of gravity is the silence branch, which most demand-letter practice treats as a passive default. Here, silence is the fourth substantive outcome, scoped, dated, and pre-tied to a specific KRPC or Bankruptcy Rule 9011(b) consequence.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/binary-forcing-notice/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## Reserved-Instrument Discipline (Variants A through E) | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/reserved-instrument-discipline.html
+
+Reserved-Instrument Discipline (Variants A through E)
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/reserved-instrument-discipline/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+Reserved-instrument discipline is the practice of drafting and holding multiple trigger-conditional instruments (typically four to five labeled variants A through E) per pressure point, then deploying only the variant whose triggering preconditions are met by the adversary's observed move. The remaining variants are documented as a deterrent bench rather than discarded. The result is a portfolio of preauthorized responses that compresses reaction time to hours rather than days and converts the act of drafting (normally a sunk cost when not sent) into deterrent inventory whose existence has independent strategic value once the bench is referenced.
+
+The discipline inverts a default in standard practice. Most attorneys draft one letter, send it, and discover its inadequacy only when the adversary moves in a way the letter did not anticipate. Reserved-instrument discipline assumes ex ante that the adversary has at least three to five plausible responses and prepares for each.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/reserved-instrument-discipline/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## Zugzwang Net Architecture | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/zugzwang-net-architecture.html
+
+Zugzwang Net Architecture
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/zugzwang-net-architecture/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+The Zugzwang Net is a win-forcing architecture for legal-accountability operations in which every catalogued adversary move (typically twelve to twenty enumerated branches) and the do-nothing branch each produces a documented loss for the adversary through independent autonomous institutional channels. The architecture is named after the chess concept of zugzwang, a position in which any move available to a player worsens that player's position. Ported to legal practice, the architecture engineers a position in which the expected value of every adversary move is negative, including the move of refusing to move.
+
+Where conventional litigation strategy reasons about the expected value of likely adversary moves and prepares responses to the most probable few, the Zugzwang Net enumerates all moves and ensures that none has a positive EV. The architecture is built on the discovery that institutional channels (regulatory bodies, disciplinary authorities, supervisory bodies, federal-criminal referral pathways) often operate on their own clocks once seeded, so the drafter's continuing engagement is not required for the architecture to keep generating losses.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/zugzwang-net-architecture/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## Fraud-by-Accumulation Framework | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/fraud-by-accumulation-framework.html
+
+Fraud-by-Accumulation Framework
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/fraud-by-accumulation-framework/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+The Fraud-by-Accumulation Framework is a doctrine of characterization in which a pattern of misrepresentations, no single one of which would suffice to prove scienter, supplies the scienter element of common-law fraud and of the bankruptcy-specific federal-criminal statutes (18 USC § 152(8) and § 152(9)) and the obstruction statute (18 USC § 1519) by virtue of the pattern itself. The framework requires consistent characterization across every institutional channel: every submission must characterize the conduct as fraud-by-accumulation and never as professional negligence, because a single negligence characterization breaks the through-line and reopens carrier coverage on a defense theory the framework is specifically designed to foreclose.
+
+The framework reverses the conventional malpractice-versus-fraud trade-off. Conventional plaintiff strategy preserves the malpractice characterization because malpractice is insured (E&O coverage). The framework voluntarily forfeits the covered damages pool to maximize personal partner exposure on the theory that personal exposure produces faster behavioral change and stronger institutional accountability outcomes than insured damages do.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/fraud-by-accumulation-framework/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## Vague Adverse Characterization Pattern Catalog | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/vague-adverse-characterization-pattern.html
+
+Vague Adverse Characterization Pattern Catalog
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/vague-adverse-characterization-pattern/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+The Vague Adverse Characterization Pattern Catalog is a discipline of treating the adversary's accusation-without-specification as itself the actionable misrepresentation, rather than as a procedural irritant. The catalog records each instance of a vague accusation (for example, "your communications are improper," "your conduct is harassing," "your concerns are without merit") with same-speaker and same-firm scienter indicators. Existing KRPC 8.4(c) practice analyzes individual false statements one at a time; this discipline treats the absence of specification as the conduct that triggers the rule. The accusation is the misstatement.
+
+The operational rule is to catalog, not engage. Each new instance of vague adverse characterization is added to the catalog and contributes to a pattern argument; replying to the instance invites either specification (which the adversary cannot deliver without exposing underlying conduct) or another pattern instance. Either outcome favors the cataloger.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/vague-adverse-characterization-pattern/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## Documentary-Anchoring Discipline | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/documentary-anchoring-discipline.html
+
+Documentary-Anchoring Discipline
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/documentary-anchoring-discipline/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+Documentary-Anchoring Discipline is the methodological rule that every operative factual claim in a legal work product must be sourced to an adversary-authored artifact, a court-filed document, or a similarly non-disavowable record. Inference, summarization, and AI-generated synthesis are productivity layers over the anchors; they are never autonomous sources. The work product's authority derives from the anchor, not from the assembly. Because the anchors are documents the adversary cannot disavow (the adversary's own emails, billing records, signed filings, transmittal covers), truth as a defense is structurally locked: every factual claim is the adversary's own document.
+
+The discipline is the inversion of the hallucination archetype documented in Mata v. Avianca, 22-cv-1461 (S.D.N.Y. 2023), and Park v. Kim, No. 22-2057 (2d Cir. 2024), in which AI tools generated nonexistent cases that counsel adopted without verification. The inversion is structural: instead of AI generating claims that counsel must then verify, anchors generate claims that AI then assembles.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/documentary-anchoring-discipline/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## Channel-Independent Escalation Discipline | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/channel-independent-escalation.html
+
+Channel-Independent Escalation Discipline
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/channel-independent-escalation/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+Channel-Independent Escalation Discipline is the operating principle that institutional pressure channels (bar disciplinary authorities, US Trustee, USAO, court motion practice, civil malpractice, trustee oversight via EOUST § 586(b), public-record clusters) are seeded once and thereafter execute on their own schedules without further originator input. The architecture deliberately desynchronizes channels so that loss, delay, or refusal at any one node does not impair the others. Conventional legal strategy synchronizes channels under a single retained-counsel plan; this approach treats synchronization as a single point of failure and engineers around it.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/channel-independent-escalation/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## UPL Guardrail with Counsel-Gated Federal Channel Routing | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/upl-guardrail-counsel-gated-routing.html
+
+UPL Guardrail with Counsel-Gated Federal Channel Routing
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/upl-guardrail-counsel-gated-routing/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+UPL Guardrail with Counsel-Gated Federal Channel Routing is the operational rule that a pro-se complainant directly addresses bar-disciplinary and administrative forums (state disciplinary authorities, state UPL committees, EOUST in non-litigation posture, public-record platforms) while federal-agency communications that affect an active case (US Trustee positions on a debtor, USAO referrals, federal-criminal referrals) route only through retained counsel. The rule preserves access to the highest-leverage forums while foreclosing counter-UPL retaliation. State-bar caution about UPL exists everywhere; the novelty is the explicit dual-track architecture, embedded into every drafting decision and into the project's tooling deny-lists.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/upl-guardrail-counsel-gated-routing/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## Counsel-Readability Standard | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/counsel-readability-standard.html
+
+Counsel-Readability Standard
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/counsel-readability-standard/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+The Counsel-Readability Standard requires that every artifact produced in a pro-se accountability arc (memory file, internal draft, public deposit, demand letter, pattern catalog, exhibit index) function simultaneously as a four-lens roadmap for new counsel. The four lenses are: (1) case-summary briefing for fast onboarding, (2) fee-economics signal showing where the money is, (3) derisk-of-engagement signal demonstrating that the work product is documentary-grade, (4) deliverables-remaining specification listing what counsel does first. The binding constraint in pro-se accountability work is not document quality; it is substitute-counsel onboarding cost. The standard treats every artifact as a recruitment instrument.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/counsel-readability-standard/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## Exemplar-Case-for-AI-in-Law Positioning | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/exemplar-case-for-ai-in-law.html
+
+Exemplar-Case-for-AI-in-Law Positioning
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/exemplar-case-for-ai-in-law/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+Exemplar-Case-for-AI-in-Law Positioning is the strategic dual-coupling of an accountability arc with an AI-in-law methodology arc, such that adverse outcomes for an opposing party simultaneously produce the post-outcome publishable proof-of-method for AI-assisted civic accountability work. The discipline is "operations first, publication second": AI authorship is backgrounded during the operational phase to deny adversaries a rhetorical handle, then foregrounded post-outcome in a published case study once concrete outcomes (disgorgement, discipline, settlement, federal referral, carrier denial) have landed.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/exemplar-case-for-ai-in-law/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## Five-Tier Graduated Punishment Ladder | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/five-tier-graduated-punishment-ladder.html
+
+Five-Tier Graduated Punishment Ladder
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/five-tier-graduated-punishment-ladder/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+The Five-Tier Graduated Punishment Ladder is a trustee and professional-oversight accountability architecture that deploys escalation steps one at a time, with deliberate spacing between steps, rather than firing the strongest available motion first. The five tiers are: Tier 0 (verification), Tier 1 (§ 324 removal motion), Tier 2 (US Trustee notice of concern via standing-deficient-filing channel), Tier 3 (US Trustee memorandum), and Tier 4 split into 4a (UPL committee), 4b (state bar discipline), and 4c (EOUST § 586(b) panel-fitness review). The structure imports game-theoretic tit-for-tat into trustee-oversight practice. Conventional practice files the strongest motion first; the ladder preserves deterrence inventory and produces a documentary record of measured response.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/five-tier-graduated-punishment-ladder/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## Soft Documentary Trap | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/soft-documentary-trap.html
+
+Soft Documentary Trap
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/soft-documentary-trap/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+The Soft Documentary Trap is a drafting form in which the addressee is asked to substantiate or identify a claim already known to be unsupportable, producing three good outcomes: (a) the addressee commits to a falsifiable position, which becomes ammunition; (b) the addressee backtracks, which becomes admission; (c) the addressee declines to respond, which itself becomes a documentary exhibit of refusal. The trap relies on withholding the refutation up front, preserving downstream ambush value for bar motion practice and later evidentiary use. The structure converts every possible response (including silence) into usable record.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/soft-documentary-trap/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## Category-Substitution Refusal Pattern Detection | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/category-substitution-refusal-pattern.html
+
+Category-Substitution Refusal Pattern Detection
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/category-substitution-refusal-pattern/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+Category-Substitution Refusal Pattern Detection is a refutation technique that treats the act of substituting one factual category for another as itself a discrete misrepresentation mechanism actionable under Fed. R. Bankr. P. 9011(b) and analogous candor rules such as KRPC 8.4(c). Conventional 8.4(c) analysis evaluates whether a statement is false on its own terms. This method instead asks whether the statement places conduct into the wrong procedural category, regardless of whether the statement is literally true within that wrong category.
+
+The detection move is mechanical. Map the adversary's claim onto the actual procedural taxonomy. Note which category the adversary's claim lands in. Note which category the underlying fact pattern requires. When those two categories diverge, the substitution is itself a misrepresentation and can be named, refuted, and logged on the record.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/category-substitution-refusal-pattern/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## Disclosed-Facts + Opinion-from-the-Record Structure | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/disclosed-facts-opinion-from-record.html
+
+Disclosed-Facts + Opinion-from-the-Record Structure
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/disclosed-facts-opinion-from-record/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+The Disclosed-Facts + Opinion-from-the-Record Structure is a writing pattern for public deposits (consumer reviews, public commentary, web posts) that produces defamation resilience by architectural design rather than by post-hoc lawyering. Every factual statement in the deposit is drawn from adversary-authored documents or docket-verifiable sources, and every characterization is presented as an opinion drawn from those disclosed facts using visible opinion markers.
+
+The result is a document whose factual layer is locked by truth (the adversary wrote the facts) and whose opinion layer is locked by the constitutional protection for opinion based on disclosed facts. Both elements of a defamation claim, falsity and actual malice, become structurally unavailable simultaneously.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/disclosed-facts-opinion-from-record/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## CFO-Incentive Cross-Case Outreach Framework | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/cfo-incentive-cross-case-outreach.html
+
+CFO-Incentive Cross-Case Outreach Framework
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/cfo-incentive-cross-case-outreach/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+The CFO-Incentive Cross-Case Outreach Framework is a routing playbook for delivering PII-exposure notifications, Rule 9037 redaction concerns, and governance-defect signals to debtor-entity CFOs rather than to general counsel or debtor counsel. The framework rests on five CFO-specific incentives that systematically produce faster action than counsel channels: D&O insurance disclosure obligations, exit-financing diligence sensitivity, subrogation math, board-reporting cycles, and personal exposure on financial-statement-affecting items.
+
+The framework is designed for cross-case use: a single originator who observes a recurring defect (for example, unredacted social-security numbers in a class of filings) can route notifications across multiple unrelated debtor entities by addressing each entity's CFO with the same incentive structure.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/cfo-incentive-cross-case-outreach/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## Adversary Public-Statement Rebuke Structure | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/adversary-public-statement-rebuke.html
+
+Adversary Public-Statement Rebuke Structure
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/adversary-public-statement-rebuke/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+The Adversary Public-Statement Rebuke Structure is a five-step rhetorical and documentary architecture for responding to adversary statements that invoke duties the adversary is simultaneously violating. The structure constructs a logical box from the adversary's own words such that the reader does the conclusion work; the originator never argues, only assembles. The technique is most effective when the adversary invokes duties of candor, supervision, or communication while breaching the same duty in the act of invoking it.
+
+The output is a short, dense rebuke that reads as inevitable rather than argumentative, and that creates a durable public or correspondence-level record other institutional readers (bar counsel, court, journalists) can adopt without modification.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/adversary-public-statement-rebuke/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## Hold Posture as Information Warfare | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/hold-posture-as-information-warfare.html
+
+Hold Posture as Information Warfare
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/hold-posture-as-information-warfare/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+Hold Posture as Information Warfare is the reframing of strategic non-action timing decisions as active capability rather than passive cost. Each day held against an adversary forces that adversary to act under timing uncertainty while preserving the originator's optionality. The framework treats bar-complaint confidentiality shelf-life, regulatory referral lead times, and similar timed disclosures as structural asymmetries that work in the originator's favor when held rather than fired.
+
+Conventional litigation strategy treats "wait" as a default consumption of resources. This framework treats wait as a capability with measurable expected value, asks what each day of holding produces, and identifies the optimal exit conditions for the hold.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/hold-posture-as-information-warfare/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## Attribution Publication Sequence (Methodology then RECAP then Bar) | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/attribution-publication-sequence.html
+
+Attribution Publication Sequence (Methodology then RECAP then Bar)
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/attribution-publication-sequence/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+The Attribution Publication Sequence is a three-vehicle staging discipline in which a methodology paper publishes first, RECAP-donation operationalization follows second, and bar-complaint or regulatory filing comes third. Each later vehicle stands on the prior's institutional foundation. The originator does not arrive at a disciplinary office as a one-litigant grievant; the originator arrives as a published-methodology author whose documentary record is already part of a public-interest research infrastructure.
+
+The sequence converts what would otherwise read as personal complaint into published research backed by a documentary record stored in a public archive. By the time the third vehicle fires, the first two have already established the originator's posture and the record's neutrality.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/attribution-publication-sequence/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## Originating-Attorney Attribution Methodology | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/originating-attorney-attribution.html
+
+Originating-Attorney Attribution Methodology
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/originating-attorney-attribution/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+When a single law firm rotates personnel through a representation, downstream attorneys often disclaim responsibility for conduct begun by predecessors, while predecessors disclaim responsibility for conduct ratified or extended by successors. Read side by side, two or more per-attorney bar complaints arising from the same representation create a textbook impeachment opportunity for respondents: each filing appears to blame a different person, which lets each respondent point at the others and argue that the complainant has no coherent theory of attribution. The Originating-Attorney Attribution Methodology pre-empts this attack by inserting an identical attribution paragraph into every per-attorney filing that flows from a shared representation, locking the attribution theory before any individual respondent has a chance to read the package.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/originating-attorney-attribution/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## Spoliation Is Historical Not Cured | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/spoliation-historical-not-cured.html
+
+Spoliation Is Historical Not Cured
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/spoliation-historical-not-cured/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+Standard litigation practice treats a supplemental production in native format as curative of an earlier stripped-metadata production. The Spoliation Is Historical Not Cured doctrine inverts this assumption. The original stripping is a fixed historical event under Rule 3.4(a) and the parallel state ethics rules, and the subsequent native-format production does not erase it. When the producing party also provides an admission stating the reason for the original stripping, that admission retroactively illuminates the intent of the historical event, and each successive supplemental production becomes additional evidence that the original stripping was deliberate rather than accidental. The doctrine pairs Rule 3.4(a) with Federal Rule of Civil Procedure 37(e) and the analogous bankruptcy spoliation framework.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/spoliation-historical-not-cured/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## Forensic Complainant Filling Federal Vacuum | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/forensic-complainant-filling-vacuum.html
+
+Forensic Complainant Filling Federal Vacuum
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/forensic-complainant-filling-vacuum/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+Disciplinary intake offices and federal regulators screen complainants through a vindictive-versus-legitimate lens that is calibrated to the grievance-driven aggrieved-client posture in which most complaints arrive. The Forensic Complainant Filling Federal Vacuum posture deliberately presents the complainant as a forensic investigator filling a documented enforcement gap rather than as an aggrieved party seeking redress. The framing matches the empirical record being submitted (multi-case dataset, controls, statistical exhibits, cross-case pattern documentation) and shifts the intake question from "is this person legitimate or vindictive" to "did the institutional actors identified in the record fail to perform the enforcement function." Disciplinary authorities respond differently to forensic-investigator framing than to grievance framing, and the difference compounds across multiple filings.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/forensic-complainant-filling-vacuum/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## Surveillance-Legibility Preservation Discipline | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/surveillance-legibility-preservation.html
+
+Surveillance-Legibility Preservation Discipline
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/surveillance-legibility-preservation/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+Standard search-engine-optimization practice maximizes traffic. The Surveillance-Legibility Preservation Discipline deliberately constrains distribution during active adversarial windows, trading marginal traffic for a clean signal-to-noise ratio against the surveilling-adversary population in analytics. The underlying observation is that adversary visits, repeat visits from adversary-adjacent IP ranges, and referrals from known adversary domains are detectable as discrete spikes against a stable low base rate, but become indistinguishable noise once distribution expansion drives general traffic growth. The discipline holds distribution flat during the window, captures the surveillance signal in clean form, and lifts the constraint once the signal is no longer needed.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/surveillance-legibility-preservation/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## Claude-Parallel Labor Architecture | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/claude-parallel-labor-architecture.html
+
+Claude-Parallel Labor Architecture
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/claude-parallel-labor-architecture/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+The standard answer to a capacity problem is to hire human personnel. The Claude-Parallel Labor Architecture identifies a different solution for documentary-anchored work: scale capacity by adding Claude sessions, with the originator's verification attention as the binding constraint. The architecture inverts the usual hire-to-scale assumption by recognizing that for work whose output must be checked against adversary-authored anchors, generation is no longer the bottleneck. Verification is, and verification scales nearly linearly with reviewer attention regardless of how generation was performed. The originator's role becomes verification, decision, and framing, not generation. Marginal capacity at near-zero cost replaces marginal capacity at full hire cost.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/claude-parallel-labor-architecture/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
+
+---
+
+## No-Facade Architecture Principle | Bankruptcy Trustee
+Source: https://bankruptcytrustee.org/methodology/no-facade-architecture.html
+
+No-Facade Architecture Principle
+
+Open Bankruptcy Project methodology · citation mirror at bankruptcytrustee.org
+
+Originally published at: openbankruptcyproject.org/methodology/no-facade-architecture/. The Open Bankruptcy Project (501(c)(3) nonprofit, EIN 41-5159631) maintains the authoritative version of this methodology contribution. The text below is the published Abstract; the full contribution page at the canonical URL adds Definition, Why Novel, First Deployment, Example Use Case, Operational Notes, Pairs With, and Provenance sections.
+
+The No-Facade Architecture Principle is an operating discipline for multi-domain content networks. It states that every domain the publisher owns must stand on its own real content; no domain may exist as a facade whose only purpose is to capture URL real estate or transfer ranking signal to another domain in the same portfolio. The principle inverts the standard SEO orthodoxy that endorses cross-domain canonical fields, mirror sites, and redirect stubs as ways to concentrate authority. Under this principle, ranking authority flows from substance, not from signaling. The publisher cannot synthesize juice by hollowing out sister sites; the only path to authority is to publish content worth ranking.
+
+The discipline has two practical consequences. First, every owned domain must be evaluated against the question: does this site have a self-sufficient reason to exist? If the answer is no, the site is deleted or merged, not preserved as a facade. Second, every page on every owned domain must satisfy the same test: would this page have been built if it could not point its canonical signal somewhere else? If the answer is no, the page is deleted, not converted to a redirect stub.
+
+Read the full methodology page: openbankruptcyproject.org/methodology/no-facade-architecture/
+
+This is a satellite citation page hosted at bankruptcytrustee.org for cross-reference within the Bankruptcy Transparency Network. Canonical content, attribution, and updates live at the URL above. Licensed CC-BY-4.0 by the Open Bankruptcy Project.
